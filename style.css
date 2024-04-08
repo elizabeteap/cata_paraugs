@@ -1,0 +1,19 @@
+body{
+    background-image: url(https://i.natgeofe.com/n/9ac08f97-31b2-4083-b152-84a48fe95169/nationalgeographic_2723899_16x9.jpg?w=1200;);
+    
+}
+.pamatlaukums{
+    background-color: rgb(213, 223, 222);
+    width: 500px;
+    height: 500px;
+    border: 2px solid black;
+    padding: 10px;
+    margin: auto;
+}
+.cataZina{
+    background-color: rgb(230,0,255,0.888);
+    height: 450px;
+    padding: 15px;
+    overflow: scroll;
+    color:rgb(0, 0, 0)
+}
